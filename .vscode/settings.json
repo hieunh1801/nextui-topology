@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.fontSize": 18,
+  "editor.fontFamily": "IBM Plex Mono",
+  "editor.renderWhitespace": "all",
+  "editor.tabSize": 2
+}
